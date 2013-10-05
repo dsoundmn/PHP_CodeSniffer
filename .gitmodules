@@ -1,0 +1,3 @@
+[submodule "CodeSniffer/Standards/PHPCompatibility"]
+	path = CodeSniffer/Standards/PHPCompatibility
+	url = git@github.com:dsoundmn/PHPCompatibility.git
